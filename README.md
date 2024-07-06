@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/PJPriyanka147/Leetcode-daily/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/PJPriyanka147/Leetcode-daily/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PJPriyanka147/Leetcode-daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/PJPriyanka147/Leetcode-daily/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/PJPriyanka147/Leetcode-daily/tree/master/0485-max-consecutive-ones) |
 ## Two Pointers
 |  |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/PJPriyanka147/Leetcode-daily/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/PJPriyanka147/Leetcode-daily/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PJPriyanka147/Leetcode-daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/PJPriyanka147/Leetcode-daily/tree/master/0189-rotate-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -31,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/PJPriyanka147/Leetcode-daily/tree/master/0136-single-number) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/PJPriyanka147/Leetcode-daily/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
