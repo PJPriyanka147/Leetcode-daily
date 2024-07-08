@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/PJPriyanka147/Leetcode-daily/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/PJPriyanka147/Leetcode-daily/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/PJPriyanka147/Leetcode-daily/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/PJPriyanka147/Leetcode-daily/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PJPriyanka147/Leetcode-daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/PJPriyanka147/Leetcode-daily/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/PJPriyanka147/Leetcode-daily/tree/master/0485-max-consecutive-ones) |
@@ -47,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/PJPriyanka147/Leetcode-daily/tree/master/0073-set-matrix-zeroes) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0152-maximum-product-subarray](https://github.com/PJPriyanka147/Leetcode-daily/tree/master/0152-maximum-product-subarray) |
 <!---LeetCode Topics End-->
