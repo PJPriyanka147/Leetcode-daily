@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/PJPriyanka147/Leetcode-daily/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/PJPriyanka147/Leetcode-daily/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/PJPriyanka147/Leetcode-daily/tree/master/0018-4sum) |
 | [0073-set-matrix-zeroes](https://github.com/PJPriyanka147/Leetcode-daily/tree/master/0073-set-matrix-zeroes) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/PJPriyanka147/Leetcode-daily/tree/master/0004-median-of-two-sorted-arrays) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PJPriyanka147/Leetcode-daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Sorting
 |  |
@@ -52,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/PJPriyanka147/Leetcode-daily/tree/master/0152-maximum-product-subarray) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/PJPriyanka147/Leetcode-daily/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
