@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/PJPriyanka147/Leetcode-daily/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/PJPriyanka147/Leetcode-daily/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/PJPriyanka147/Leetcode-daily/tree/master/0018-4sum) |
+| [0053-maximum-subarray](https://github.com/PJPriyanka147/Leetcode-daily/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/PJPriyanka147/Leetcode-daily/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/PJPriyanka147/Leetcode-daily/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/PJPriyanka147/Leetcode-daily/tree/master/0088-merge-sorted-array) |
@@ -64,11 +65,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/PJPriyanka147/Leetcode-daily/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/PJPriyanka147/Leetcode-daily/tree/master/0152-maximum-product-subarray) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/PJPriyanka147/Leetcode-daily/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/PJPriyanka147/Leetcode-daily/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/PJPriyanka147/Leetcode-daily/tree/master/0169-majority-element) |
 ## Union Find
 |  |
