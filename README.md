@@ -89,4 +89,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2271-rearrange-array-elements-by-sign](https://github.com/PJPriyanka147/Leetcode-daily/tree/master/2271-rearrange-array-elements-by-sign) |
+## String
+|  |
+| ------- |
+| [1078-remove-outermost-parentheses](https://github.com/PJPriyanka147/Leetcode-daily/tree/master/1078-remove-outermost-parentheses) |
+## Stack
+|  |
+| ------- |
+| [1078-remove-outermost-parentheses](https://github.com/PJPriyanka147/Leetcode-daily/tree/master/1078-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
