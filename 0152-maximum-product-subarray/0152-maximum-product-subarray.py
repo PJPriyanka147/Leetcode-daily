@@ -11,7 +11,7 @@ class Solution:
             if nums[i] < 0:
                 max_product, min_product = min_product, max_product
 
-            max_product =  max(nums[i] , nums[i] * max_product)
+            max_product = max(nums[i] , nums[i] * max_product)
             min_product = min(nums[i], nums[i]* min_product)
 
             result = max(result, max_product)
