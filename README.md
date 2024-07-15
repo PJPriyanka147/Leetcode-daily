@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/PJPriyanka147/Leetcode-daily/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/PJPriyanka147/Leetcode-daily/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/PJPriyanka147/Leetcode-daily/tree/master/0485-max-consecutive-ones) |
+| [0540-single-element-in-a-sorted-array](https://github.com/PJPriyanka147/Leetcode-daily/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/PJPriyanka147/Leetcode-daily/tree/master/0560-subarray-sum-equals-k) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/PJPriyanka147/Leetcode-daily/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/PJPriyanka147/Leetcode-daily/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/PJPriyanka147/Leetcode-daily/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/PJPriyanka147/Leetcode-daily/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PJPriyanka147/Leetcode-daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0540-single-element-in-a-sorted-array](https://github.com/PJPriyanka147/Leetcode-daily/tree/master/0540-single-element-in-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
