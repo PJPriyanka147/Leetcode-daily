@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/PJPriyanka147/Leetcode-daily/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/PJPriyanka147/Leetcode-daily/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/PJPriyanka147/Leetcode-daily/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/PJPriyanka147/Leetcode-daily/tree/master/0242-valid-anagram) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/PJPriyanka147/Leetcode-daily/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/PJPriyanka147/Leetcode-daily/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/PJPriyanka147/Leetcode-daily/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/PJPriyanka147/Leetcode-daily/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/PJPriyanka147/Leetcode-daily/tree/master/0560-subarray-sum-equals-k) |
 ## Matrix
 |  |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/PJPriyanka147/Leetcode-daily/tree/master/0242-valid-anagram) |
 | [1078-remove-outermost-parentheses](https://github.com/PJPriyanka147/Leetcode-daily/tree/master/1078-remove-outermost-parentheses) |
 ## Stack
 |  |
