@@ -113,8 +113,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/PJPriyanka147/Leetcode-daily/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/PJPriyanka147/Leetcode-daily/tree/master/0242-valid-anagram) |
 | [1078-remove-outermost-parentheses](https://github.com/PJPriyanka147/Leetcode-daily/tree/master/1078-remove-outermost-parentheses) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/PJPriyanka147/Leetcode-daily/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Stack
 |  |
 | ------- |
 | [1078-remove-outermost-parentheses](https://github.com/PJPriyanka147/Leetcode-daily/tree/master/1078-remove-outermost-parentheses) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/PJPriyanka147/Leetcode-daily/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
