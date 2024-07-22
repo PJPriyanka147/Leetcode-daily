@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/PJPriyanka147/Leetcode-daily/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/PJPriyanka147/Leetcode-daily/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/PJPriyanka147/Leetcode-daily/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/PJPriyanka147/Leetcode-daily/tree/master/0088-merge-sorted-array) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/PJPriyanka147/Leetcode-daily/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/PJPriyanka147/Leetcode-daily/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/PJPriyanka147/Leetcode-daily/tree/master/0152-maximum-product-subarray) |
 ## Divide and Conquer
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/PJPriyanka147/Leetcode-daily/tree/master/0005-longest-palindromic-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/PJPriyanka147/Leetcode-daily/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/PJPriyanka147/Leetcode-daily/tree/master/0242-valid-anagram) |
 | [1078-remove-outermost-parentheses](https://github.com/PJPriyanka147/Leetcode-daily/tree/master/1078-remove-outermost-parentheses) |
