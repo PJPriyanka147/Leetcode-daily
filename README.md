@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/PJPriyanka147/Leetcode-daily/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/PJPriyanka147/Leetcode-daily/tree/master/0560-subarray-sum-equals-k) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/PJPriyanka147/Leetcode-daily/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1370-count-number-of-nice-subarrays](https://github.com/PJPriyanka147/Leetcode-daily/tree/master/1370-count-number-of-nice-subarrays) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/PJPriyanka147/Leetcode-daily/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/PJPriyanka147/Leetcode-daily/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Two Pointers
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/PJPriyanka147/Leetcode-daily/tree/master/0189-rotate-array) |
+| [1370-count-number-of-nice-subarrays](https://github.com/PJPriyanka147/Leetcode-daily/tree/master/1370-count-number-of-nice-subarrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/PJPriyanka147/Leetcode-daily/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/PJPriyanka147/Leetcode-daily/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/PJPriyanka147/Leetcode-daily/tree/master/0560-subarray-sum-equals-k) |
+| [1370-count-number-of-nice-subarrays](https://github.com/PJPriyanka147/Leetcode-daily/tree/master/1370-count-number-of-nice-subarrays) |
 ## Matrix
 |  |
 | ------- |
@@ -129,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/PJPriyanka147/Leetcode-daily/tree/master/0155-min-stack) |
+## Sliding Window
+|  |
+| ------- |
+| [1370-count-number-of-nice-subarrays](https://github.com/PJPriyanka147/Leetcode-daily/tree/master/1370-count-number-of-nice-subarrays) |
 <!---LeetCode Topics End-->
