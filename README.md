@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/PJPriyanka147/Leetcode-daily/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/PJPriyanka147/Leetcode-daily/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/PJPriyanka147/Leetcode-daily/tree/master/0560-subarray-sum-equals-k) |
+| [0713-subarray-product-less-than-k](https://github.com/PJPriyanka147/Leetcode-daily/tree/master/0713-subarray-product-less-than-k) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/PJPriyanka147/Leetcode-daily/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1370-count-number-of-nice-subarrays](https://github.com/PJPriyanka147/Leetcode-daily/tree/master/1370-count-number-of-nice-subarrays) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/PJPriyanka147/Leetcode-daily/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -135,5 +136,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/PJPriyanka147/Leetcode-daily/tree/master/0713-subarray-product-less-than-k) |
 | [1370-count-number-of-nice-subarrays](https://github.com/PJPriyanka147/Leetcode-daily/tree/master/1370-count-number-of-nice-subarrays) |
 <!---LeetCode Topics End-->
