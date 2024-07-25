@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/PJPriyanka147/Leetcode-daily/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/PJPriyanka147/Leetcode-daily/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/PJPriyanka147/Leetcode-daily/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/PJPriyanka147/Leetcode-daily/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/PJPriyanka147/Leetcode-daily/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/PJPriyanka147/Leetcode-daily/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/PJPriyanka147/Leetcode-daily/tree/master/0128-longest-consecutive-sequence) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/PJPriyanka147/Leetcode-daily/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/PJPriyanka147/Leetcode-daily/tree/master/0136-single-number) |
 ## Math
 |  |
@@ -138,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/PJPriyanka147/Leetcode-daily/tree/master/0713-subarray-product-less-than-k) |
 | [1370-count-number-of-nice-subarrays](https://github.com/PJPriyanka147/Leetcode-daily/tree/master/1370-count-number-of-nice-subarrays) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/PJPriyanka147/Leetcode-daily/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
